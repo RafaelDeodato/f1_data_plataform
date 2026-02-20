@@ -7,7 +7,7 @@ __pycache__/
 *.pyd
 *.so
 
-Scripts/test.py
+test*
 
 # Virtual environment
 .venv/
