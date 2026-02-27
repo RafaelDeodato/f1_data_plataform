@@ -12,6 +12,9 @@ from app.db.models.season import Season
 from app.db.models.circuit import Circuit
 from app.db.models.race import Race
 from app.db.models.session import Session
+from app.db.models.driver import Driver
+from app.db.models.constructor import Constructor
+from app.db.models.entrie import Entrie
 
 # this is the Alembic Config object, which provides
 # access to the values within the .ini file in use.
